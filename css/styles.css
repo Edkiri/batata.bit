@@ -197,7 +197,7 @@ main {
     display: inline-block;
     width: 15px;
     height: 15px;
-    background-image: url(./assets/icons/trending-up.svg);
+    background-image: url(../assets/icons/trending-up.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -207,7 +207,7 @@ main {
     display: inline-block;
     width: 15px;
     height: 15px;
-    background-image: url(./assets/icons/trending-down.svg);
+    background-image: url(../assets/icons/trending-down.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -274,7 +274,7 @@ main {
     height: 25px;
     left: calc(50% - 20px);
     top: calc(0% - 12.5px);
-    background-image: url(assets/icons/batata.svg);
+    background-image: url(../assets/icons/batata.svg);
 }
 .product-detail--title {
     width: 90%;
@@ -332,23 +332,23 @@ main {
     color: #808080;
 }
 .clock {
-    background-image: url(assets/icons/clock.svg);
+    background-image: url(../assets/icons/clock.svg);
 }
 .eye {
-    background-image: url(assets/icons/eye.svg);
+    background-image: url(../assets/icons/eye.svg);
 }
 .dollar {
-    background-image: url(assets/icons/dollar-sign.svg);
+    background-image: url(../assets/icons/dollar-sign.svg);
 }
 .circle {
-    background-image: url(assets/icons/check-circle.svg);
+    background-image: url(../assets/icons/check-circle.svg);
 }
 
 .bitcoin-img-container {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(assets/img/bitcoinbaby2x.jpg);
+    background-image: url(../assets/img/bitcoinbaby2x.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -460,7 +460,7 @@ main {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(assets/icons/orange-right-arrow.svg);
+    background-image: url(../assets/icons/orange-right-arrow.svg);
     vertical-align: text-bottom;
 }
 .basic {
@@ -540,7 +540,7 @@ main {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(assets/icons/orange-right-arrow.svg);
+    background-image: url(../assets/icons/orange-right-arrow.svg);
     vertical-align: text-bottom;
 }
 
